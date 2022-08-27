@@ -1,0 +1,48 @@
+ 
+/**********
+ABOUT
+**********/
+
+#about {
+  margin: 60px auto;
+  max-width: 4000px;
+  text-align: center;
+}
+
+#about img{
+  border-radius: 50%;
+  width: 170px;
+  margin-bottom: 10px;
+}
+
+#about .name{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+#about .vocation{
+  font-size: 38px;
+  color: #808080;
+  margin-bottom: 10px ; 
+}
+
+#about .Skills{
+  font-size: 14px;
+  color: #00ABAE;
+  margin-bottom: 10px;
+}
+
+#about .email .com{
+  margin-top:14px;
+  font-size:30px;
+}
+
+#about .icons{
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+#about .icons a{
+  color:#000;
+}
